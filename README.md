@@ -53,7 +53,7 @@ Reading notes will be organized by:
 1. 《段永平投资问答录》(雪球特别版) - 段永平
    - 开始日期：[当前日期]
    - 状态：进行中
-   - [阅读笔记链接](./chinese/investment/段永平投资问答录.md)
+   - [阅读笔记链接](./chinese/investment/段永平投资问答录/index.md)
 
 ### English Books
 *Coming soon...*
